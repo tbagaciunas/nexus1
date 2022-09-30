@@ -3311,6 +3311,9 @@ input, select, textarea {
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
+		background: url("https://mj-gallery.com/7bdc2cc1-529e-4b24-ae61-7cfc51a7b9c8/grid_0.png";
+		background-repeat: no-repeat;
+  		background-size: auto;
 	}
 
 		#intro input, #intro select, #intro textarea {
